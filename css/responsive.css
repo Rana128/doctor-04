@@ -1,0 +1,268 @@
+
+@media(max-width:767px) and (min-width:576px){
+    .top_header span {
+        display: none;
+    }
+    .top_header p {
+        font-size: 10px;
+    }
+    .banner_text h4{
+        font-size: 30px;
+    }
+    .banner_text h1{
+        font-size: 29px;
+        padding: 8px 24px 0px 8px;
+    }
+    .doctor_content h3{
+        font-size: 17px;
+    }
+    .doctor_content p{
+        font-size: 13px;
+    }
+    .appointment_text h1 {
+        font-size: 26px;
+        margin-bottom: 28px;
+    }
+    .app-button button{
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 0;
+        text-align: center;
+    }.app-button button{
+        margin-left: 125px;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .top_header span{
+        display: none;
+    }
+    .top_header p{
+        font-size: 11px;
+    }
+    .app-button button{
+        display: none;
+    }
+    .banner_text h4{
+        font-size: 30px;
+        margin-top: 100px;
+    }
+    .banner_text h1{
+        font-size: 30px;
+        padding: 10px 17px 0px 8px;
+    }
+    .doctor_content h3{
+        font-size: 17px;
+    }
+    .latest_top{
+        margin-top: 22px;
+    }
+    .latest_bottom h3{
+        font-size: 14px;
+    }
+    .about-info h2{
+        font-size: 37px;
+        margin-bottom: 20px;
+    }
+    .latest_bottom p{
+        font-size: 10px;
+    }
+    .appointment_text h1{
+        font-size: 26px;
+        margin-bottom: 32px;
+    }
+    .appointment_img{
+        margin-top: 150px;
+    }
+    .stories-info{
+        margin-left: 0;
+    }
+    .banner{
+        min-height: 80vh;
+    }
+}
+@media(max-width:1199px) and (min-width:992px){
+    .top_header span{
+        display: inline-block;
+    }
+    .app-button button {
+        padding: 8px 32px;
+        font-size: 15px;
+    }
+    .banner_text h1{
+        font-size: 40px;
+        padding: 10px 20px 0 8px;
+    }
+    .appointment_text h1 {
+        font-size: 36px;
+        margin-bottom: 34px;
+    }
+    footer{
+        padding-top: 37px;
+    }
+    .appointment_img{
+        margin-top: 38px;
+    }
+}
+@media(max-width:1200px) and (min-width:992px){
+    .banner_text h1{
+        font-size: 48px;
+    }
+    .banner_text h4{
+        font-size: 32px;
+        padding-top: 12px;
+    }
+    .appointment_text h1{
+        font-size: 43px;
+    }
+
+}
+@media(max-width:576px)and (min-width:321px){
+    .top_header span {
+        display: none;
+    }
+    .banner_text h4{
+        font-size: 20px;
+        margin-top: 113px;
+    }
+    .banner_text h1{
+        font-size: 36px;
+        padding: 10px 15px 0px 8px;
+    }
+    .appointment_text h1{
+        margin-bottom: 30px;
+        font-size: 37px;
+    }
+    footer h4{
+        margin-top: 30px;
+        margin-bottom: 16px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 0;
+        text-align: center;
+    }.app-button button{
+        margin-left: 160px;
+    }
+}
+@media(max-width: 320px) and (min-width: 220px){
+    .banner_text h4{
+        padding-top: 7px;
+        margin-top:121px;
+    }
+    .top_header span {
+        display: none;
+    }
+    .banner_text h4{
+        font-size: 20px;
+    }
+    .banner_text h1{
+        font-size: 22px;
+        padding: 10px 9px 0px 8px;
+    }
+    .banner_text p{
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .banner{
+        min-height: 95vh;
+    }
+    .btn_learn{
+        font-size: 14px;
+        padding: 7px 3px;
+        margin-bottom: 15px;
+    }
+    .btn_book{
+        font-size: 14px;
+        margin-left: 0;
+        padding: 7px 7px;
+    }
+    .about-info h2{
+        font-size: 30px;
+    }
+    .doctor_content h3{
+        font-size: 20px;
+    }
+    .doctor_content p{
+        font-size: 13px;
+    }
+    .latest_text h3{
+        font-size: 16px;
+    }
+    .latest_text p{
+        font-size: 13px;
+    }
+    .latest_bottom{
+        margin-top: 8px;
+    }
+    .latest_bottom h3{
+        font-size: 13px;
+    }
+    .latest_bottom p{
+        font-size: 12px;
+    }
+    .top_header p{
+        font-size: 10px;
+    }
+    .appointment_text h1 {
+        font-size: 22px;
+        margin-top: 20px;
+        margin-bottom: 26px;
+    }
+    .social-icon{
+        margin-bottom: 20px;
+    }
+    .stories-info{
+        margin-top: 10px;
+    }
+    footer{
+        padding-top: 27px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 0;
+         text-align: center;
+    }
+    .app-button button{
+        margin-left: 16px;
+    }
+}
+@media(max-width:445px) and (min-width: 330px){
+    .banner_text h4{
+        margin-top: 126px;
+    }
+    .banner_text h1{
+        font-size: 20px;
+    }
+    .banner_text h4{
+        font-size: 15px;
+    }
+    .banner_text p{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .btn_book{
+        margin-left: 0;
+    }
+    .btn_learn{
+        padding: 10px 14px;
+    }
+    .appointment_text h1 {
+        font-size: 23px;
+        margin-top: 20px;
+    }
+    .social-icon{
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:520px) and (min-width: 446px){
+    .banner_text h4{
+        margin-top: 60px;
+    }
+    .banner_text h1{
+        font-size: 30px;
+    }
+}
+@media(max-width:1185px) and (min-width: 1016px){
+    .banner_text h1{
+        font-size: 40px;
+    }
+}
